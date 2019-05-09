@@ -19,8 +19,8 @@ a {
   &:visited {
     color: #fff;
   }
-  &:focus,
 
+  &:focus,
   &:active,
   &:hover {
     color: #efefef;
@@ -30,7 +30,7 @@ a {
 .home-logo {
   max-height: 90%;
   display: block;
-  margin: auto;
+  margin: 5px auto;
 }
 
 .navigation {
